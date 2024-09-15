@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
+    "title": "carzy.in",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn nestJs, GraphQL and Material UI languages by building an app.",
+    "skills": ["React", "GraphQL", "Node", "Nest", "Material UI"],
+    "demo": "https://carzy.in/",
+    "source": "https://github.com/indexofmayank/carzy-backend/"
   },
   {
-    "title": "Project B",
+    "title": "Fresh Vegie",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "Express", "Node", "Chakra UI"],
+    "demo": "https://fresh-vegie-admin-frontend.vercel.app/",
+    "source": "https://github.com/indexofmayank/FreshVegieAdminFrontend"
   }
 ]
